@@ -1,1 +1,1 @@
-# Google-PaLM-2-API-DataPrompt-NodeJS
+# Google-PaLM-2-API-ChatModel-NodeJS
